@@ -24,12 +24,16 @@ _________
 ________
 From the above findings, it can be deduced that:
 Web Development is the most subscribed course followed by Business Finance, then Graphic Design and then Musical Instruments being the least of all. According to figure 6, the level most subscribed to is ALL LEVEL.
-,Then the highest revenue generating levels per subject according to TABLE 3 are:Web development (All levels), Business Finance (Beginner Level), Graphic Design (Intermediate level) and then Web development (Expert Level).
-,But according to Figure 4, Web development being the most revenue generating course has most of the subscription taken free. Infact, 80% of the subscribers of each of the courses chose the “free plan”
-.From the analysis, the following can be agreed on:
+
+Then the highest revenue generating levels per subject according to TABLE 3 are:Web development (All levels), Business Finance (Beginner Level), Graphic Design (Intermediate level) and then Web development (Expert Level).
+
+But according to Figure 4, Web development being the most revenue generating course has most of the subscription taken free. Infact, 80% of the subscribers of each of the courses chose the “free plan”
+From the analysis, the following can be agreed on:
 The most subscribed course is Web development with over 6million subscribers, although 80% of the subscribers chose the "FREE" Plan
-,Musical Instruments course is the least revenue generating course
-,Subscribers prefer ALL LEVELS package and BEGINNERS LEVEL package over other subject levels package with both getting over 5million paid subscribers and over 3milion free subscribers.
+
+Musical Instruments course is the least revenue generating course
+
+Subscribers prefer ALL LEVELS package and BEGINNERS LEVEL package over other subject levels package with both getting over 5million paid subscribers and over 3milion free subscribers.
 __________
 ### Recommendation
 ________
